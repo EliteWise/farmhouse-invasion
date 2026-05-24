@@ -1,0 +1,10 @@
+{
+  "Name": "Farmhouse Invasion",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "Description",
+  "UniqueID": "EliteWise.FarmhouseInvasion",
+  "EntryDll": "FarmhouseInvasion.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
